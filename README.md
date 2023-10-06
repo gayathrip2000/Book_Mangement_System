@@ -20,7 +20,7 @@ To run this project locally, follow the steps below:
 1. Clone this repository to your local machine.
 
 ```bash
-git clone 
+git clone https://github.com/gayathrip2000/Book_Mangement_System
 cd BookStore
 ```
 
@@ -47,8 +47,6 @@ npm start
 ```
 
 The App will be available at http://localhost:3000.
-
-
 
 
 ### Postman API Collection
